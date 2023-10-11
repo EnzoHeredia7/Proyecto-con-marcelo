@@ -1,0 +1,35 @@
+.contenedor{
+    background-color: rgb(235, 235, 200);
+    text-align: center;
+    padding: 2px 0px;
+    border-radius: 5px;
+    position: relative;
+    z-index: 2;
+}
+img{
+    width: 70px;
+    padding: 10px;
+    margin: 0px;
+    
+}
+a{  
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    margin: 0px 30px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    position: relative;
+    z-index: 2;
+    font-size: large;
+     font-weight:bold; 
+}
+
+a:hover{
+    background-color: rgb(216, 218, 205);
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
